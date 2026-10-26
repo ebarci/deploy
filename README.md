@@ -15,4 +15,4 @@ Python, Selenium WebDriver, pytest, pytest-html y Visual Studio Code.
 
 ## Autor
 
-Emanuel — QA Analyst.
+Emanuel Barci
