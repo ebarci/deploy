@@ -1,6 +1,6 @@
 # Prácticas de QA y automatización
 
-Este repositorio contiene mis ejercicios y pruebas automatizadas realizados durante la cursada del Modulo 3 en UNTREF.
+Este repositorio contiene mis ejercicios, videos y pruebas automatizadas realizados durante la cursada del Modulo 3 en UNTREF.
 
 ## Contenido
 
